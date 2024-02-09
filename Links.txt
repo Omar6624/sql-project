@@ -1,0 +1,28 @@
+
+@"D:\4.1\CSE 4126\Project\All Complete Files\Order_Link_Admin_Insert_Customer.sql"
+
+@"D:\4.1\CSE 4126\Project\All Complete Files\Order_Link_Admin_Update_Customer.sql"
+
+@"D:\4.1\CSE 4126\Project\All Complete Files\Order_Link_Admin_Delete_Customer.sql"
+
+
+@"D:\4.1\CSE 4126\Project\All Complete Files\Order_Link_Admin_Insert_Product.sql"
+
+@"D:\4.1\CSE 4126\Project\All Complete Files\Order_Link_Admin_Update_Product.sql"
+
+@"D:\4.1\CSE 4126\Project\All Complete Files\Order_Link_Admin_Delete_Product.sql"
+
+
+@"D:\4.1\CSE 4126\Project\All Complete Files\Order_Link_Admin_Update_Order_Items.sql"
+
+
+@"D:\4.1\CSE 4126\Project\All Complete Files\Customer_Order.sql"
+
+
+
+
+
+
+
+
+
